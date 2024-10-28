@@ -1,7 +1,7 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Collaborative Human Robot Inspection & Intervention System for Challenging Underwater Environments (CHRIIS)
+date: 2024-11-02
+# external_link: https://github.com/pandas-dev/pandas
 tags:
   - Hugo
   - Wowchemy
