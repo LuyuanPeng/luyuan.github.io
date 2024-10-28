@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Teaching
 summary: Research Projects
 type: landing
 
@@ -11,12 +11,12 @@ cascade:
 
 sections:
   - block: collection
-    id: projects
+    id: teaching
     content:
-      title: Projects
+      title: Teaching
       filters:
         folders:
-          - projects
+          - teaching
     design:
       view: article-grid
       columns: 2
