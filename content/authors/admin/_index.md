@@ -41,10 +41,10 @@ profiles:
     url: https://scholar.google.com/citations%3Fuser%3DZ7K_R_UAAAAJ%26hl%3Den&ved=2ahUKEwjA2Mbr6q2JAxWpzTgGHUB8BtQQFnoECAsQAQ&usg=AOvVaw1MPLjYgKaCn5X7jT2GY8KV
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - Field Robotics
+  - Marine Robotics
+  - Computer Vision
+  - Applied Machine Learning
 education:
   - area: PhD Artificial Intelligence
     institution: Stanford University
@@ -184,47 +184,7 @@ Her research interests include field robotics in challenging environments and ap
 
 Apart from her academic interests, Luyuan has a strong passion for tech entreprenurship. She also enjoys tennis, scuba diving, playing guitar, cold places and hot sake.
 <!-- ---
-# Display name
-title: Peng Luyuan 彭渌媛
 
-
-# Full name (for SEO)
-first_name: Luyuan
-last_name: Peng
-
-
-# Status emoji
-status:
-  icon: ☕️🎾🧑‍💻️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-# Role/position/tagline
-role: PhD Candidate
-
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: National University of Singpore
-    url: https://arl.nus.edu.sg/
-
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:luyuan@nus.edu.sg'
-    label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/luyuanpeng
-  - icon: brands/linkedin
-    url: https://sg.linkedin.com/in/peng-luyuan
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations%3Fuser%3DZ7K_R_UAAAAJ%26hl%3Den&ved=2ahUKEwjA2Mbr6q2JAxWpzTgGHUB8BtQQFnoECAsQAQ&usg=AOvVaw1MPLjYgKaCn5X7jT2GY8KV
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
 
 interests:
   - Field Robotics
