@@ -52,7 +52,7 @@ education:
     date_start: 2020-08-01 #TODO: change exact date to month only
     date_end: 2025-07-31
     summary: |
-      Thesis on _Tetherless Control of Remotely Operated Vehicles_. Supervised by [Assoc. Prof Mandar Chitre](http://www.chitre.net/) and [Dr. Hari Vishnu](http://https://arl.nus.edu.sg/people/hari-vishnu/). Presented papers at 2 IEEE conferences.
+      Thesis on _Tetherless Control of Remotely Operated Vehicles_. Supervised by [Assoc. Prof Mandar Chitre](http://www.chitre.net/) and [Dr. Hari Vishnu](https://arl.nus.edu.sg/people/hari-vishnu/). Presented papers at 2 IEEE conferences.
 
       GPA: 4.3
 
