@@ -49,10 +49,10 @@ interests:
 education:
   - area: PhD in Electrical and Computer Engineering
     institution: National University of Singapore
-    date_start: 2020-08-01 #TODO: change exact date to month only
+    date_start: 2020-08-01 
     date_end: 2025-07-31
     summary: |
-      Thesis on _Tetherless Control of Remotely Operated Vehicles_. Supervised by [Assoc. Prof Mandar Chitre](http://www.chitre.net/) and [Dr. Hari Vishnu](https://arl.nus.edu.sg/people/hari-vishnu/). Presented papers at 2 IEEE conferences.
+      Thesis on _Tetherless Control of Remotely Operated Vehicles_. Supervised by Assoc. Prof Mandar Chitreand Dr. Hari Vishnu. Presented papers at 2 IEEE conferences.
 
       GPA: 4.3
 
@@ -70,38 +70,6 @@ education:
     date_end: 2020-07-31
     summary: |
       GPA: 4.0
-      
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-  #   button:
-  #     text: 'Read Thesis'
-  #     url: 'https://example.com'
-  # - area: MEng Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     GPA: 3.8/4.0
-
-  #     Courses included:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  # - area: BSc Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     GPA: 3.4/4.0
-      
-  #     Courses included:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
