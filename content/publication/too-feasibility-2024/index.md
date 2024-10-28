@@ -28,7 +28,7 @@ tags:
 featured: true
 
 image:
-  caption: ""
+  caption: ' '
   focal_point: ""
   preview_only: false
 

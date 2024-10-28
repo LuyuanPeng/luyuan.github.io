@@ -28,6 +28,7 @@ abstract: High-precision localization is pivotal in underwater reinspection miss
   unexplored regions. Moreover, we enhance localization accuracy by integrating pose
   estimator outputs with sensor data via an extended Kalman filter, demonstrating
   improved trajectory smoothness and accuracy.
+  
 tags:
 - Computer Vision and Pattern Recognition
 - Marine Robotics
