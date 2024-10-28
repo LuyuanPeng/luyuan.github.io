@@ -64,12 +64,12 @@ education:
       - Advanced topics on vision and machine learning
       - Information theory and its application
       
-  - area: BEng Aerospace Engineering with Second Major in Business
-    institution: Nanyang Technological University, Singapore
-    date_start: 2016-08
-    date_end: 2020-07
-    summary: |
-      GPA: 4.0
+  # - area: BEng Aerospace Engineering with Second Major in Business
+  #   institution: Nanyang Technological University, Singapore
+  #   date_start: 2016-08
+  #   date_end: 2020-07
+  #   summary: |
+  #     GPA: 4.0
       
   # - area: PhD Artificial Intelligence
   #   institution: Stanford University
