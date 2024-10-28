@@ -39,39 +39,44 @@ profiles:
     url: https://sg.linkedin.com/in/peng-luyuan
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations%3Fuser%3DZ7K_R_UAAAAJ%26hl%3Den&ved=2ahUKEwjA2Mbr6q2JAxWpzTgGHUB8BtQQFnoECAsQAQ&usg=AOvVaw1MPLjYgKaCn5X7jT2GY8KV
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
 
 interests:
-  - Field Robotics
-  - Marine Robotics
-  - Computer Vision
-  - Applied Machine Learning
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: PhD in Electrical and Computer Engineering
-    institution: National University of Singapore
-    date_start: 2020-08
-    date_end: 2025-07 
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Thesis on _Tetherless Control of Remotely Operated Vehicles_. Supervised by [Assoc. Prof Mandar Chitre](http://www.chitre.net/) and [Dr. Hari Vishnu](http://https://arl.nus.edu.sg/people/hari-vishnu/). Presented papers at 2 IEEE conferences.
-
-      GPA: 4.3
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
 
       Courses included:
-      - Linear systems 
-      - Pattern recognition
-      - Visual computing
-      - Deep learning (advanced)
-      - Advanced topics on vision and machine learning
-      - Information theory and its application
-      
-  - area: BEng Aerospace Engineering with Second Major in Business
-    institution: Nanyang Technological University, Singapore
-    date_start: 2016-08
-    date_end: 2020-07
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 4.0
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
