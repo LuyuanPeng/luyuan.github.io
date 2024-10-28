@@ -45,6 +45,7 @@ interests:
   - Marine Robotics
   - Computer Vision
   - Applied Machine Learning
+  
 education:
   - area: PhD Artificial Intelligence
     institution: Stanford University
