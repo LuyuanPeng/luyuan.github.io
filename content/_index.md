@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: over-the-plane.jpeg
+          filename: mountain-top.jpeg
           filters:
             brightness: 1.0
           size: cover
@@ -64,7 +64,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Volunteering Activities
       filters:
         folders:
           - event
