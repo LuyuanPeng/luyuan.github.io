@@ -29,10 +29,23 @@ abstract: High-precision localization is pivotal in underwater reinspection miss
   estimator outputs with sensor data via an extended Kalman filter, demonstrating
   improved trajectory smoothness and accuracy.
 tags:
-- Computer Science - Computer Vision and Pattern Recognition
-- Computer Science - Robotics
-- Electrical Engineering and Systems Science - Image and Video Processing
+- Computer Vision and Pattern Recognition
+- Marine Robotics
+- Pose Estimation
+
+featured: true
+
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
+projects:
+- chriis
+
 links:
 - name: URL
   url: http://arxiv.org/abs/2407.16961
+
+
 ---
