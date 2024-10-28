@@ -64,19 +64,19 @@ education:
       - Advanced topics on vision and machine learning
       - Information theory and its application
       
-  # - area: BEng Aerospace Engineering with Second Major in Business
-  #   institution: Nanyang Technological University, Singapore
-  #   date_start: 2016-08
-  #   date_end: 2020-07
-  #   summary: |
-  #     GPA: 4.0
+  - area: BEng Aerospace Engineering with Second Major in Business
+    institution: Nanyang Technological University, Singapore
+    date_start: 2016-08-01
+    date_end: 2020-07-31
+    summary: |
+      GPA: 4.0
       
-  # - area: PhD Artificial Intelligence
-  #   institution: Stanford University
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
   #   button:
   #     text: 'Read Thesis'
   #     url: 'https://example.com'
