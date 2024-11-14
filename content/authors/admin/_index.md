@@ -107,22 +107,15 @@ skills:
         description: ''
         percent: 100
         icon: code-bracket
-      - name: Unity3D
-        description: ''
-        percent: 70
-        icon: code-bracket
-      - name: C#
-        description: ''
-        percent: 70
-        icon: code-bracket 
       - name: Julia
         description: ''
         percent: 70
         icon: code-bracket
-      - name: SQL
+      - name: Unity3D
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 70
+        icon: code-bracket
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
