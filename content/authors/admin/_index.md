@@ -181,12 +181,10 @@ awards:
     url: https://www.facebook.com/share/p/12EG1PA7XXP/
     date: '2023-11-25'
     awarder: IEEE Oceanic Engineering Society 
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  # - title: SGInnovate Summation Award
-  #   date: '2019-11-01'
-  #   awarder: SGInnovate 
+    
+  - title: SGInnovate Summation Award
+    date: '2019-11-01'
+    awarder: SGInnovate 
 
   # - title: President Research Scholar
   #   date: '2019-10-21'
@@ -199,8 +197,6 @@ awards:
 ## About Me
 
 
-Luyuan is a PhD candidate in the Department of Electrical and Computer Engineering at the National University of Singapore, under the supervision of Assoc Prof Mandar Chitre and Dr. Hari Vishnu. 
+I'm a PhD candidate in the Department of Electrical and Computer Engineering at the National University of Singapore, under the supervision of Assoc Prof Mandar Chitre and Dr. Hari Vishnu. My research interests focus on field robotics in challenging environments. In addition to her research, I actively contribute to the academic community by organizing several international conferences, workshops and competitions. In 2024, I was honored with the _IEEE Oceanic Engineering Society (OES) Women in Engineering Propel_ award for her contributions to the field.
 
-Her research interests include field robotics in challenging environments and applied machine learning in underwater acoustic communication. Her current research focuses on applying machine learning to solve real-time image transmission challenges in underwater robotics, with the goal of enhancing the tetherless control of remotely operated underwater vehicles. In 2024, Luyuan was honored with the _IEEE Oceanic Engineering Society (OES) Women in Engineering Propel_ award for her contributions to the field. In addition to her research, she has actively contributed to the academic community by organizing several international conferences, workshops and competitions. She is also the editor of _IEEE OES Student Newsletter_. 
-
-Apart from her academic interests, Luyuan has a strong passion for tech entreprenurship. She also enjoys tennis, scuba diving, playing guitar, cold places and hot sake.
+Apart from her academic interests, I have a strong passion for tech entreprenurship and enjoy tennis, scuba diving, playing guitar, cold places and hot sake.
