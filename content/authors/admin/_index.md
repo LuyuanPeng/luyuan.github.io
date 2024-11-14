@@ -151,7 +151,7 @@ skills:
       - name: Tennis
         description: ''
         percent: 100
-        icon: assets/media/icons/tennis.svg  
+        icon: tennis.svg  
       - name: Guitar
         description: ''
         percent: 80
