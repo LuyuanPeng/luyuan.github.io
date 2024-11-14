@@ -155,11 +155,11 @@ skills:
       - name: Guitar
         description: ''
         percent: 80
-        icon: guitar
+        icon: custom/guitar
       - name: Scuba Diving
         description: ''
         percent: 80
-        icon: diving
+        icon: custom/diving
       - name: Cats
         description: ''
         percent: 100
