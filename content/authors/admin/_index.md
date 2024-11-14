@@ -151,19 +151,19 @@ skills:
       - name: Tennis
         description: ''
         percent: 100
-        # icon: tennis  
+        icon: tennis  
       - name: Guitar
         description: ''
         percent: 80
-        # icon: camera
-      - name: Cooking
+        icon: guitar
+      - name: Scuba Diving
         description: ''
         percent: 80
-        # icon: camera
+        icon: diving
       - name: Cats
         description: ''
         percent: 100
-        # icon: cat
+        icon: cat
 
 languages:
   - name: English
