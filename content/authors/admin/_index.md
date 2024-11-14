@@ -70,7 +70,7 @@ education:
     date_end: 2020-07-31
     summary: |
       GPA: 4.0
-volunteer:
+experience:
   - position: Logistics Chair
     company_name: SAUVC
     company_url: https://sauvc.org/
