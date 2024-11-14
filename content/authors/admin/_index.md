@@ -186,12 +186,12 @@ awards:
     date: '2019-11-01'
     awarder: SGInnovate 
 
-  # - title: President Research Scholar
-  #   date: '2019-10-21'
-  #   awarder: Nanyang Technological University, Singapore
-  # - title: KKH Scholarship
-  #   date: '2019-1-21'
-  #   awarder: Wilmar International
+  - title: President Research Scholar
+    date: '2019-10-21'
+    awarder: Nanyang Technological University, Singapore
+  - title: KKH Scholarship
+    date: '2019-1-21'
+    awarder: Wilmar International
 ---
 
 ## About Me
