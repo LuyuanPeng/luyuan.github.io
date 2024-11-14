@@ -70,29 +70,56 @@ education:
     date_end: 2020-07-31
     summary: |
       GPA: 4.0
-# work:
-#   - position: Director of Cloud Infrastructure
-#     company_name: GenCoin
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2021-01-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - position: Backend Software Engineer
-#     company_name: X
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2016-01-01
-#     date_end: 2020-12-31
-#     summary: |
-#       Responsibilities include:
-#       - Migrated infrastructure to a new data center
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+volunteer:
+  - position: Logistics Chair
+    company_name: SAUVC
+    company_url: https://sauvc.org/
+    company_logo: ''
+    date_start: 2024-09-01
+    date_end: ''
+    summary: |2-
+      Responsible for arranging logistics for the competition.
+  - position: Career Networking Tour Co-chair 
+    company_name: OCEANS Halifax 2024
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-05-01
+    date_end: 2024-09-20
+    summary: |
+      Responsible for participant recruitment, publicizing the event and leading the tours. 
+  - position: Local Arrangement Chair
+    company_name: OCEANS Singapore 2024
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-11-01
+    date_end: 2024-04-20
+    summary: |
+      Oversaw the coordination of events at the OCEANS Singapore 2024 conference, spearheaded the planning and execution of the career networking tour, technical tours and cultural immersion events for over 700 participants.
+  - position: Local Organising Committee 
+    company_name: OES Summer School 2024
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-02-01
+    date_end: 2024-04-20
+    summary: |
+      Responsible for logistics preparation and event management. 
+  - position: Technical Committee and Diver
+    company_name: SAUVC 2024
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-07-01
+    date_end: 2024-04-01
+    summary: |
+      Led the development of competition rulebooks and managed first-round judging for the Singapore AUV Challenge 2024. Actively contributed as a diver, ensuring fair play and safety during live events, directly impacting the competition’s success.
+  - position: Technical Committee and Diver
+    company_name: SAUVC 2024
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-01-01
+    date_end: 2022-09-20
+    summary: |
+      Orchestrated event logistics for the AUV Symposium 2022, successfully managing arrangements for 150 participants, which boosted the event’s operational efficiency.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
