@@ -151,7 +151,7 @@ skills:
       - name: Tennis
         description: ''
         percent: 100
-        icon: tennis.svg  
+        icon: custom/tennis
       - name: Guitar
         description: ''
         percent: 80
@@ -171,11 +171,6 @@ languages:
   - name: Chinese
     percent: 100
 
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Women In Engineering Propel Laureate 
     url: https://www.facebook.com/share/p/12EG1PA7XXP/
