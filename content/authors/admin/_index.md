@@ -114,7 +114,7 @@ skills:
       - name: C#
         description: ''
         percent: 70
-        icon:code-bracket 
+        icon: code-bracket 
       - name: Julia
         description: ''
         percent: 70
