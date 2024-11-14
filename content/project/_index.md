@@ -23,7 +23,7 @@ sections:
       title: Selected Projects
       filters:
         folders:
-          - projects
+          - project
     design:
       view: article-grid
       columns: 2
