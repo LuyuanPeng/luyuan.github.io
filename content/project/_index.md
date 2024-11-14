@@ -1,7 +1,7 @@
 ---
 title: Selected Projects
 cms_exclude: true
-type: landing
+# type: landing
 # View
 # view: article-grid
 
