@@ -1,7 +1,7 @@
 ---
 title: SAUVC 2022
 
-event_url: https://example.org
+event_url: https://sauvc.org/
 
 location: Singapore
 
