@@ -152,7 +152,7 @@ languages:
 #   - title: Women In Engineering Propel Laureate 
 #     url: https://www.facebook.com/share/p/12EG1PA7XXP/
 #     date: '2023-11-25'
-#     awarder: IEEE Oceanic Engineering Society and Women In Engineering 
+#     awarder: IEEE Oceanic Engineering Society 
 #     icon: coursera
 #     summary: |
 #       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.

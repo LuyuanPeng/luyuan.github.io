@@ -1,7 +1,7 @@
 ---
-title: Selected Projects
+title: Volunteering Events 
 cms_exclude: true
-url: projects
+#url: talk
 
 # View
 view: card

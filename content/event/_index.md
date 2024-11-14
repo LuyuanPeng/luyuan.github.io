@@ -1,13 +1,12 @@
 ---
-title: Volunteering Events 
+title: Volunteer Activities
 cms_exclude: true
-#url: talk
-
-# View
+url: event
+# View.
 view: card
 
-# Optional cover image (relative to `assets/media/` folder).
-image:
+# Optional header image (relative to `static/media/` folder).
+banner:
   caption: ''
-  filename: ''
+  image: ''
 ---
