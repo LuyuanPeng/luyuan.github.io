@@ -1,11 +1,14 @@
 ---
-title: Collaborative Human Robot Inspection & Intervention System for Challenging Underwater Environments (CHRIIS)
+title: CHRIIS
+summary: Navigation and Vision for Collaborative Human Robot Inspection & Intervention System for Challenging Underwater Environments 
 date: 2024-11-02
 # external_link: https://github.com/pandas-dev/pandas
 tags:
   - Marine Robotics
   - Model-based Image Compression
   - Virtual Tethering
+image: 
+  caption: "Team members in CHRIIS"
 --- 
 
 This project focuses on developing AI/ML-based computer vision solutions to address real-time video transmission challenges in underwater robotics, specifically for tetherless control of remotely operated vehicles (ROVs). To enable operators to monitor and manipulate the underwater environment in real-time, my work explores advanced data compression techniques designed to overcome the low data rates typically encountered in underwater communication, where acoustic modems offer limited bandwidth and optical modems face range constraints. 
