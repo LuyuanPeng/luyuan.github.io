@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Peng Luyuan 彭渌媛
+title: Luyuan Peng 彭渌媛
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -176,24 +176,24 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: Women In Engineering Propel Laureate 
-#     url: https://www.facebook.com/share/p/12EG1PA7XXP/
-#     date: '2023-11-25'
-#     awarder: IEEE Oceanic Engineering Society 
-#     icon: coursera
-#     summary: |
-#       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-#   - title: SGInnovate Summation Award
-#     date: '2019-11-01'
-#     awarder: SGInnovate 
+awards:
+  - title: Women In Engineering Propel Laureate 
+    url: https://www.facebook.com/share/p/12EG1PA7XXP/
+    date: '2023-11-25'
+    awarder: IEEE Oceanic Engineering Society 
+    icon: coursera
+    summary: |
+      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  # - title: SGInnovate Summation Award
+  #   date: '2019-11-01'
+  #   awarder: SGInnovate 
 
-#   - title: President Research Scholar
-#     date: '2019-10-21'
-#     awarder: Nanyang Technological University, Singapore
-#   - title: KKH Scholarship
-#     date: '2019-1-21'
-#     awarder: Wilmar International
+  # - title: President Research Scholar
+  #   date: '2019-10-21'
+  #   awarder: Nanyang Technological University, Singapore
+  # - title: KKH Scholarship
+  #   date: '2019-1-21'
+  #   awarder: Wilmar International
 ---
 
 ## About Me
