@@ -190,13 +190,13 @@ awards:
     date: '2019-10-21'
     awarder: Nanyang Technological University, Singapore
   - title: KKH Scholarship
-    date: '2019-1-21'
+    date: '2019-01-21'
     awarder: Wilmar International
 ---
 
 ## About Me
+I'm a PhD candidate in the Department of Electrical and Computer Engineering at the National University of Singapore, under the supervision of Assoc Prof Mandar Chitre and Dr. Hari Vishnu. My research interests focus on field robotics in challenging environments. 
 
+I also actively contribute to the academic community by organizing several international conferences, workshops and competitions. In 2024, I was honored with the _IEEE Oceanic Engineering Society (OES) Women in Engineering Propel_ award.
 
-I'm a PhD candidate in the Department of Electrical and Computer Engineering at the National University of Singapore, under the supervision of Assoc Prof Mandar Chitre and Dr. Hari Vishnu. My research interests focus on field robotics in challenging environments. In addition to her research, I actively contribute to the academic community by organizing several international conferences, workshops and competitions. In 2024, I was honored with the _IEEE Oceanic Engineering Society (OES) Women in Engineering Propel_ award for her contributions to the field.
-
-Apart from her academic interests, I have a strong passion for tech entreprenurship and enjoy tennis, scuba diving, playing guitar, cold places and hot sake.
+Apart from my academic interests, I have a strong passion for tech entreprenurship and enjoy tennis, scuba diving, playing guitar, cold places and hot sake.
