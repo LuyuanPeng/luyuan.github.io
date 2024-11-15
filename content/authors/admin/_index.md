@@ -112,8 +112,8 @@ work:
     date_end: 2024-04-01
     summary: |
       Led the development of competition rulebooks and managed first-round judging for the Singapore AUV Challenge 2024. Actively contributed as a diver, ensuring fair play and safety during live events, directly impacting the competition’s success.
-  - position: Technical Committee and Diver
-    company_name: SAUVC 2024
+  - position: Local Organising Committee
+    company_name: AUV Symposium 2022
     company_url: ''
     company_logo: ''
     date_start: 2022-01-01
